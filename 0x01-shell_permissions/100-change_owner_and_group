@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown vicent:staff /root/alx-system_engineering-devops/0x01-shell_permissions
+chown vicent:staff *
