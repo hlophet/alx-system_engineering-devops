@@ -1,4 +1,11 @@
+
+0X01 SHELL PERMISSIONS
+======================
+
+
+
 THE DIFFERENT SCRIPTS & THEIR PURPOSES:
+
 
 0 - My name is Betty: Creates a script that switches the current user to the user betty.
 
@@ -28,3 +35,11 @@ owner: no permission at all, group: no permission at all, other users: all the p
 12 - More directories: Creates a directory called "my dir" with permissions 751 in the working directory.
 
 13 - Change group: Changes the group owner to school for the hello file.
+
+14 - Owner and group: Changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+
+15 - Symbolic links: Changes the owner and the group owner of _hello to vincent and staff respectively.
+
+16 - f only: Changes the owner of the file hello to betty only if it is owned by the user guillaume.
+
+17 = Star Wars: Play the StarWars IV episode in the terminal.
