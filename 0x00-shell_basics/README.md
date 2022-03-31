@@ -1,4 +1,4 @@
-Diffent Scripts and Their Purposes:
+Different Scripts and Their Purposes:
 
 0-current_working_directory script - prints the absolute path name of the current working director.
 
