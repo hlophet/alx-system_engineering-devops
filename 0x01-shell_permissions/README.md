@@ -11,7 +11,7 @@ THE DIFFERENT SCRIPTS & THEIR PURPOSES:
 
 1 - Who am I: Prints the effective username of the current user.
 
-2 - Groups: Pints all the groups the current user is part of.
+2 - Groups: Prints all the groups the current user is part of.
 
 3 - New owner: Changes the owner of the hello file to the user betty.
 
